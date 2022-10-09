@@ -1,1 +1,1 @@
-# Expert-System
+The expert system used here is a backward-expert-system. This is a non-binary, range-based expert system that not provides a suggestion for a preliminary analysis for university shorlistings. Any parameter in this universe is highly variable so this expert system provides a rough yet better analysis than mental analysis. 
